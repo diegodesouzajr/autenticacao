@@ -1,0 +1,19 @@
+{
+  "name": "autenticacao",
+  "version": "1.0.0",
+  "description": "Autenticação por Token",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diegodesouzajr/autenticacao.git"
+  },
+  "author": "Diego de Souza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diegodesouzajr/autenticacao/issues"
+  },
+  "homepage": "https://github.com/diegodesouzajr/autenticacao#readme"
+}
